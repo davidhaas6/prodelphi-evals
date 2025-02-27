@@ -1,0 +1,43 @@
+# Bytecode & System Files
+__pycache__/
+*.py[cod]
+*.swp
+.DS_Store
+
+# Virtual Environment
+.venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data Files
+data/
+*.csv
+*.json
+*.xlsx
+*.parquet
+*.h5
+*.db
+*.sqlite
+
+# Logs & Outputs
+logs/
+*.log
+*.out
+*.err
+
+# Model & Cache Files
+models/
+*.pkl
+*.joblib
+*.h5
+*.onnx
+.cache/
+
+# IDE & Editor Files
+.vscode/
+.idea/
+
+# Environment Config
+.env
