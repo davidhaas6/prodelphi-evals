@@ -1,3 +1,5 @@
+src/baml_client/
+
 # Bytecode & System Files
 __pycache__/
 *.py[cod]
